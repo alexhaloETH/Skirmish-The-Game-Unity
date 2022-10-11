@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Offline.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 07ff7dbe2e6544045b7803d7d72cd5c6
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 69748d06c28e3f24d84de2974a5aec31
+  - enabled: 0
+    path: Assets/Scenes/ConnectWallet.unity
+    guid: bf823750212bcf24980e9f7d24cc44ea
+  m_configObjects: {}
